@@ -5,59 +5,56 @@ Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 
 Apparatus Required:
+laptop with connection
 
-Sl .no	Apparatus	Range	Type	Quantity
-1	Volt meter	(0-300)V	MC	1
-2	Ammeter	(0-2.5)A	MC	1
-3	Ammeter	(0-5)A	MC	1
-4	Rheostat		Wire wouned	1
-5	Rheostat		Wire wouned	1
-6	Connecting wires	-	-	As required
+theory
 
-Fuse rating calculation for field and armature:
-
-No load test
-
-10 % of rated current (full load current)
-
-Load test
-
-125 % of rated current (full load current)
-
-Precautions
-
-1.   Motor side field rheostat should be kept at minimum resistance position.
-2.   Generator side field rheostat should be kept at maximum resistance position.
-3.   Starter should be in off position before switching on the supply.
-4.   The DPST switch must be kept open.Procedure for open circuit test
-Procedure
-1.   Connections are given as per the circuit diagram.
-2.   The motor is started with the help of THREE POINT starter.
-3.   Adjust the motor speed to rated speed by adjusting motor field rheostat when the generator is disconnected from the load by DPST switch 2.
-4.   By  varying  the  generator  field  rheostat  gradually,  the  open  circuit  voltage  [Eo]  and corresponding field current (If) are tabulated up to 125 % of rated voltage of generator.
-5.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
-
-Procedure for Load test:
-
-1.   Connections are given as per the circuit diagram
-2.   The prime mover is started with the help of three point starter and it is made to run at rated speed when the generator is disconnected from the load by DPST switch 2.
-3.   By varying the generator field rheostat gradually, the rated voltage [Eg] is obtained.
-4.   The ammeter and voltmeter readings are observed at no load condition.
-5.   The ammeter and voltmeter readings are observed for different loads up to the rated current by closing the DPST switch 2.
-6.   After tabulating all the readings the load is brought to its initial position.
-7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
-
-Tabulation for Open Circuit Test
-
-Tabulation for Load Test:
-
-Model graph:
-Calculation: 
-
+DE generator converts mechanical erergy
+into electrical energy.
+DC generator works on the principle
+of faradays law. It states that "when a conductor cuts the magnetic flur and e.w.f is induced."
+The field winding and armature windings are copnected in parallel in the
 Open circuit characteristics
+It is also known as Magnetisation characteristics or no load characteristics, It is a
+graph drawn between open circuit vottage (Eo)and field curent (IF).
+Load aircuit characteristics
+It is a graph drawn between load vottoge(VL) and load curent (1.). It is also
+Known as external characteristics.
+Procedure
 
-  
-Load Characteristics:
+
+Open circuit choracteristics:
+2.
+1· Connections are made as per the circuitdiagram.
+Switch on the supply and note dows
+the readings (voltage and cursent)
+3. By varying the field rheostat differentvalues of oper circuit voltage and fieldcurrent are noted.
+4. Plot the graph between open circuit
+voltage and field cussent.
+Load characteristics:
+1. Connections are made as per the
+crcuit diagram.
+2. Switch on the supply and note the
+no load vottage and current.
+3. By connecting different nodes, differentvalues of load voltage and note cursentare noted.
+4. plot the graph between load voltage and load current
+
+circuit diagram:
+![exp 2](https://github.com/user-attachments/assets/d0356c1e-20a6-414e-9ea7-0dffec048fb4)
+
+![exp 2 2](https://github.com/user-attachments/assets/f9bdf368-6c87-42a1-b7da-4e2d1411e303)
+
+graph:
+
+<img width="182" height="277" alt="Screenshot 2025-12-10 091437" src="https://github.com/user-attachments/assets/2d4689dc-6771-4694-aaa1-eca52d678948" />
+
+<img width="272" height="393" alt="Screenshot 2025-12-10 091410" src="https://github.com/user-attachments/assets/e6d6f130-0d43-4646-887d-a81406d07ff7" />
+
+
+<img width="493" height="485" alt="Screenshot 2025-12-10 090741" src="https://github.com/user-attachments/assets/ad29ed76-4a54-4848-8d86-082d1f29fbef" />
+
+<img width="723" height="546" alt="Screenshot 2025-12-10 090802" src="https://github.com/user-attachments/assets/b3c2d750-23de-48a8-ba37-38f68b0c5ccf" />
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
